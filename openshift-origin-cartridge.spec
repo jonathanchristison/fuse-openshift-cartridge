@@ -6,7 +6,7 @@
 
 Name: openshift-origin-cartridge-fuse
 Version: 6.1.1.redhat.%{product_build_number}
-Release: 13%{?dist}
+Release: 14%{?dist}
 Summary: Fuse cartridge
 Group: Development/Languages
 License: ASL 2.0
